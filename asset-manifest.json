@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Duc-CV/static/css/main.9c81d291.chunk.css",
-    "main.js": "/Duc-CV/static/js/main.451c4e44.chunk.js",
-    "main.js.map": "/Duc-CV/static/js/main.451c4e44.chunk.js.map",
+    "main.js": "/Duc-CV/static/js/main.e08a0631.chunk.js",
+    "main.js.map": "/Duc-CV/static/js/main.e08a0631.chunk.js.map",
     "runtime-main.js": "/Duc-CV/static/js/runtime-main.875e8b66.js",
     "runtime-main.js.map": "/Duc-CV/static/js/runtime-main.875e8b66.js.map",
-    "static/js/2.f490428a.chunk.js": "/Duc-CV/static/js/2.f490428a.chunk.js",
-    "static/js/2.f490428a.chunk.js.map": "/Duc-CV/static/js/2.f490428a.chunk.js.map",
+    "static/js/2.05fd51cd.chunk.js": "/Duc-CV/static/js/2.05fd51cd.chunk.js",
+    "static/js/2.05fd51cd.chunk.js.map": "/Duc-CV/static/js/2.05fd51cd.chunk.js.map",
     "index.html": "/Duc-CV/index.html",
-    "precache-manifest.32f23ea3c876eaa6b6cfa8bbff14eb25.js": "/Duc-CV/precache-manifest.32f23ea3c876eaa6b6cfa8bbff14eb25.js",
+    "precache-manifest.feb3e645c1ba653390b0602afc79fb03.js": "/Duc-CV/precache-manifest.feb3e645c1ba653390b0602afc79fb03.js",
     "service-worker.js": "/Duc-CV/service-worker.js",
     "static/css/main.9c81d291.chunk.css.map": "/Duc-CV/static/css/main.9c81d291.chunk.css.map",
-    "static/js/2.f490428a.chunk.js.LICENSE.txt": "/Duc-CV/static/js/2.f490428a.chunk.js.LICENSE.txt",
+    "static/js/2.05fd51cd.chunk.js.LICENSE.txt": "/Duc-CV/static/js/2.05fd51cd.chunk.js.LICENSE.txt",
     "static/media/cisco_ccna_R_26S.png": "/Duc-CV/static/media/cisco_ccna_R_26S.9a30658c.png",
     "static/media/logo200px.png": "/Duc-CV/static/media/logo200px.9473b096.png",
     "static/media/mountain.png": "/Duc-CV/static/media/mountain.b7b8d45a.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.875e8b66.js",
-    "static/js/2.f490428a.chunk.js",
+    "static/js/2.05fd51cd.chunk.js",
     "static/css/main.9c81d291.chunk.css",
-    "static/js/main.451c4e44.chunk.js"
+    "static/js/main.e08a0631.chunk.js"
   ]
 }
