@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Duc-CV/static/css/main.9c81d291.chunk.css",
+    "main.js": "/Duc-CV/static/js/main.fb55bb06.chunk.js",
+    "main.js.map": "/Duc-CV/static/js/main.fb55bb06.chunk.js.map",
+    "runtime-main.js": "/Duc-CV/static/js/runtime-main.875e8b66.js",
+    "runtime-main.js.map": "/Duc-CV/static/js/runtime-main.875e8b66.js.map",
+    "static/js/2.2f7028d7.chunk.js": "/Duc-CV/static/js/2.2f7028d7.chunk.js",
+    "static/js/2.2f7028d7.chunk.js.map": "/Duc-CV/static/js/2.2f7028d7.chunk.js.map",
+    "index.html": "/Duc-CV/index.html",
+    "precache-manifest.65a75a0a7acc563213f9cda743ee1cab.js": "/Duc-CV/precache-manifest.65a75a0a7acc563213f9cda743ee1cab.js",
+    "service-worker.js": "/Duc-CV/service-worker.js",
+    "static/css/main.9c81d291.chunk.css.map": "/Duc-CV/static/css/main.9c81d291.chunk.css.map",
+    "static/js/2.2f7028d7.chunk.js.LICENSE.txt": "/Duc-CV/static/js/2.2f7028d7.chunk.js.LICENSE.txt",
+    "static/media/cisco_ccna_R_26S.png": "/Duc-CV/static/media/cisco_ccna_R_26S.9a30658c.png",
+    "static/media/logo200px.png": "/Duc-CV/static/media/logo200px.9473b096.png",
+    "static/media/mountain.png": "/Duc-CV/static/media/mountain.b7b8d45a.png",
+    "static/media/name.png": "/Duc-CV/static/media/name.b64c77e4.png",
+    "static/media/portrait.png": "/Duc-CV/static/media/portrait.5902a1d8.png",
+    "static/media/server.png": "/Duc-CV/static/media/server.3c15598e.png",
+    "static/media/sun.png": "/Duc-CV/static/media/sun.c4a7f5e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875e8b66.js",
+    "static/js/2.2f7028d7.chunk.js",
+    "static/css/main.9c81d291.chunk.css",
+    "static/js/main.fb55bb06.chunk.js"
+  ]
+}
