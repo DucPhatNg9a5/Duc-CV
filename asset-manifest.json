@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Duc-CV/static/css/main.9c81d291.chunk.css",
-    "main.js": "/Duc-CV/static/js/main.e08a0631.chunk.js",
-    "main.js.map": "/Duc-CV/static/js/main.e08a0631.chunk.js.map",
+    "main.js": "/Duc-CV/static/js/main.f5e9fdd5.chunk.js",
+    "main.js.map": "/Duc-CV/static/js/main.f5e9fdd5.chunk.js.map",
     "runtime-main.js": "/Duc-CV/static/js/runtime-main.875e8b66.js",
     "runtime-main.js.map": "/Duc-CV/static/js/runtime-main.875e8b66.js.map",
     "static/js/2.05fd51cd.chunk.js": "/Duc-CV/static/js/2.05fd51cd.chunk.js",
     "static/js/2.05fd51cd.chunk.js.map": "/Duc-CV/static/js/2.05fd51cd.chunk.js.map",
     "index.html": "/Duc-CV/index.html",
-    "precache-manifest.feb3e645c1ba653390b0602afc79fb03.js": "/Duc-CV/precache-manifest.feb3e645c1ba653390b0602afc79fb03.js",
+    "precache-manifest.375bdff8adaadc80f2092ef4bf2e5061.js": "/Duc-CV/precache-manifest.375bdff8adaadc80f2092ef4bf2e5061.js",
     "service-worker.js": "/Duc-CV/service-worker.js",
     "static/css/main.9c81d291.chunk.css.map": "/Duc-CV/static/css/main.9c81d291.chunk.css.map",
     "static/js/2.05fd51cd.chunk.js.LICENSE.txt": "/Duc-CV/static/js/2.05fd51cd.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.875e8b66.js",
     "static/js/2.05fd51cd.chunk.js",
     "static/css/main.9c81d291.chunk.css",
-    "static/js/main.e08a0631.chunk.js"
+    "static/js/main.f5e9fdd5.chunk.js"
   ]
 }
