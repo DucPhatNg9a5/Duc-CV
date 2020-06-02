@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74f0b2f5287a56eff7236c633a089b41",
+    "revision": "dbcec74106ab26f33bf8d62bc04af2bc",
     "url": "/Duc-CV/index.html"
   },
   {
-    "revision": "64dcbbd3648e4ac62753",
-    "url": "/Duc-CV/static/css/main.0062b0f8.chunk.css"
+    "revision": "539471f6ae380b9f7906",
+    "url": "/Duc-CV/static/css/main.3ceabed5.chunk.css"
   },
   {
-    "revision": "1feb4269b0cd2cfaadc2",
-    "url": "/Duc-CV/static/js/2.05fd51cd.chunk.js"
+    "revision": "0cbfa5ff2887d4568143",
+    "url": "/Duc-CV/static/js/2.5daff65e.chunk.js"
   },
   {
     "revision": "c2b22595fbaa760a114537ee731d92a3",
-    "url": "/Duc-CV/static/js/2.05fd51cd.chunk.js.LICENSE.txt"
+    "url": "/Duc-CV/static/js/2.5daff65e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64dcbbd3648e4ac62753",
-    "url": "/Duc-CV/static/js/main.a04e660e.chunk.js"
+    "revision": "539471f6ae380b9f7906",
+    "url": "/Duc-CV/static/js/main.515a8a68.chunk.js"
   },
   {
     "revision": "75fdde4460e93ccd979c",
     "url": "/Duc-CV/static/js/runtime-main.875e8b66.js"
+  },
+  {
+    "revision": "8925cb9e62dc0a56b6814ab404ed737f",
+    "url": "/Duc-CV/static/media/UC-7615eef0-3e9c-49eb-8d56-1a2ba45998e1.8925cb9e.jpg"
+  },
+  {
+    "revision": "0d639a6b1019d81c278dc2a40ff78f16",
+    "url": "/Duc-CV/static/media/UC-b461af42-3812-4852-9903-039f95367afd.0d639a6b.jpg"
+  },
+  {
+    "revision": "b43a85830ae1ba2154d9c6ab5b84464a",
+    "url": "/Duc-CV/static/media/UC-d9279b63-2b8c-4746-8ee4-85ad568a9e6b.b43a8583.jpg"
   },
   {
     "revision": "9a30658c9e013cfe34fe10d6ad4cd100",
