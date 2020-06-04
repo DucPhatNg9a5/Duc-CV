@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cb261bee0a55ac8571af781990e5308",
+    "revision": "e30bdfac6a82ea7ca7d62225500cabe2",
     "url": "/Duc-CV/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Duc-CV/static/css/2.7c35e809.chunk.css"
   },
   {
-    "revision": "73b68ade139530c24d2d",
+    "revision": "6c7e045fc0b2250270f0",
     "url": "/Duc-CV/static/css/main.3ceabed5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Duc-CV/static/js/2.a79fa113.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73b68ade139530c24d2d",
-    "url": "/Duc-CV/static/js/main.ab4c28e1.chunk.js"
+    "revision": "6c7e045fc0b2250270f0",
+    "url": "/Duc-CV/static/js/main.e75c3a84.chunk.js"
   },
   {
     "revision": "75fdde4460e93ccd979c",
