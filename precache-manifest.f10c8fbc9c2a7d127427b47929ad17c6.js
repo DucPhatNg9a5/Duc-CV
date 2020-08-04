@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9af9ccf7adf4d2c9c9ecd363247b2b78",
+    "revision": "c59332b66711e690948900753e6c7990",
     "url": "/Duc-CV/index.html"
   },
   {
-    "revision": "9b9f65eeb38614655816",
+    "revision": "a1a0c6dce18538f29fdb",
     "url": "/Duc-CV/static/css/2.7c35e809.chunk.css"
   },
   {
-    "revision": "a4a36b03d8563c93dbb5",
+    "revision": "9b5ff606691f64e5f5fa",
     "url": "/Duc-CV/static/css/main.3ceabed5.chunk.css"
   },
   {
-    "revision": "9b9f65eeb38614655816",
-    "url": "/Duc-CV/static/js/2.918b1752.chunk.js"
+    "revision": "a1a0c6dce18538f29fdb",
+    "url": "/Duc-CV/static/js/2.ea31ab76.chunk.js"
   },
   {
-    "revision": "f95aa2d42737df318d1594d096635f08",
-    "url": "/Duc-CV/static/js/2.918b1752.chunk.js.LICENSE.txt"
+    "revision": "2e63551304d99ccdfc35438765e6583f",
+    "url": "/Duc-CV/static/js/2.ea31ab76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4a36b03d8563c93dbb5",
-    "url": "/Duc-CV/static/js/main.931e9ea0.chunk.js"
+    "revision": "9b5ff606691f64e5f5fa",
+    "url": "/Duc-CV/static/js/main.654ac78f.chunk.js"
   },
   {
     "revision": "75fdde4460e93ccd979c",
